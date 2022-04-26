@@ -9,3 +9,6 @@ El triunfo
 Daule
 Milagro
 Naranjal
+
+Recordatorio #1
+Siempre hacer una git add y un git commit antes de cambiar de ramma porque se pueden perder los cambios realizados
