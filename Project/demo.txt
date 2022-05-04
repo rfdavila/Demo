@@ -10,5 +10,7 @@ Daule
 Milagro
 Naranjal
 
-Recordatorio #1
-Siempre hacer una git add y un git commit antes de cambiar de ramma porque se pueden perder los cambios realizados
+Bolivia,Argentina, Panama, Alemania, Francia....
+
+Lugares Visitados
+Quito, Guayaquil, Galapagos, Esmeraldas, Riobamba,Salinas..
