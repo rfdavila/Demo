@@ -14,3 +14,20 @@ Bolivia,Argentina, Panama, Alemania, Francia....
 
 Lugares Visitados
 Quito, Guayaquil, Galapagos, Esmeraldas, Riobamba,Salinas..
+
+
+Comandos GIT
+
+git log --all --graph
+git log --all --graph --decorate --oneline
+
+
+TAG
+
+Crea TAG
+git tag -a v0.1 -m "Resultado de la version ...." 1f3234fgs44
+lista de TAG
+git show-ref --tags
+Subir TAG a GitHub
+git push origin --tags
+
